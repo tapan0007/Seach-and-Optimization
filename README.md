@@ -1,5 +1,4 @@
-# Seach-and-Optimization
-# Seach-and-Optimization
+# Search-and-Optimization
 
 
 Table of Contents
